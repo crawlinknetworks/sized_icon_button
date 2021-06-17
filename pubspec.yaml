@@ -1,7 +1,9 @@
 name: sized_icon_button
 description: Create different size of Icon Buttons.
-version: 0.0.1
+version: 0.0.2
 homepage: https://ceawlink.com
+issue_tracker: https://github.com/crawlinknetworks/sized_icon_button/issues
+repository: https://github.com/crawlinknetworks/sized_icon_button
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
